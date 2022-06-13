@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# At the very beginnings rn...
+# Project coming soon 😇
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
