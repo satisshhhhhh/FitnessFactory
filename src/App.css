@@ -49,23 +49,22 @@ body {
 }
 
 .detail-image {
-  width: 729px;
-  height: 742px;
+  width: 650px;
+  height: 650px;
 }
 
 .hero-banner-img {
   position: absolute;
-  right: 40px;
+  right: 30px;
   top: 0px;
-  width: 700px;
-  height: 900px;
-  margin-top: -330px;
-
+  width: 630px;
+  height: 800px;
+  margin-top: -220px;
 }
 
 .exercise-card {
   width: 400px;
-  height: 445px;
+  height: 440px;
   background: #fff;
   border-top: 4px solid #FF2625;
   border-bottom-left-radius: 20px;

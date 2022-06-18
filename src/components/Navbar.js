@@ -30,7 +30,10 @@ const Navbar = () => {
             direction="row"
             gap="40px"
             fontSize="24px"
-            allignItems="flex-end"
+            sx={{
+                fontSize: { lg:"24px", xs:"22px" }
+            }}
+            alignItems="flex-end"
         >
             <Link to="/" style={
             {
