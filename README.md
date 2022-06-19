@@ -1,6 +1,10 @@
 # Fitness Factory
 
-Live - https://satish-fitness-factory.netlify.app/
+### Live - https://satish-fitness-factory.netlify.app/
+
+`ExerciseDB API`: https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb                                                          
+`Youtube Search and Download` - https://rapidapi.com/h0p3rwe/api/youtube-search-and-download 
+
 
 ## Home Page - 
 ![image](https://user-images.githubusercontent.com/58567211/174431288-f0e1f7b9-612a-4e1a-b0d6-fe5b4bedfdff.png)
